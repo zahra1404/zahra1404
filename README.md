@@ -5,6 +5,4 @@
 - 🌱 I’m currently learning **React.js Development**
 
 - 📫 How to reach me **zahrazaidi1404@gmail.com**
-
-
--React.js Enthusiast
+ - <H1>React.js Enthusiast<h1>
