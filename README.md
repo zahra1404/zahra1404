@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zahra Zaidi</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h2 align="center">Hi 👋, I'm Zahra Zaidi</h1>
+<h4 align="center">A Passionate Developer from India</h3>
 
 
-- 🌱 I’m currently learning **React.js Development**
+- 🌱 Tech Stack : Html 5, Css3, Javascript, ReactJs, NextJs, Material UI
 
-- 📫 How to reach me **zahrazaidi1404@gmail.com**
- - <h2>React.js Enthusiast<h2>
+- 📫 How to reach me : **zahrazaidi1404@gmail.com**
+
