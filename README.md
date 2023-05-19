@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Zahra Zaidi</h1>
 
-Passionate about crafting exceptional user experiences through clean and efficient code. 👨‍💻✨</br>
+<h4 align="center">Passionate about crafting exceptional user experiences through clean and efficient code. 👨‍💻✨</h4></br>
 
 🌐 Building pixel-perfect, responsive web applications and intuitive mobile interfaces that delight users and exceed expectations. 🌈 </br>
 
